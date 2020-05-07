@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="559448e6-44f0-447d-a047-bc89356f8b4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1bKDK2yTY1404bcBjtiZ9sFnsTL" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/kotlin/io/floodplain/example" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/io/floodplain/example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FloodplainFilmWithActorsKt">
+    <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="floodplain-example.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.floodplain.example.AppKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloodplainFilmWithActorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="floodplain-example.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="io.floodplain.example.FloodplainFilmWithActorsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FloodplainFilmWithActorsKt" />
+        <item itemvalue="Kotlin.AppKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="559448e6-44f0-447d-a047-bc89356f8b4c" name="Default Changelist" comment="" />
+      <created>1588371823066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588371823066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom" timestamp="1588866419323">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1588866419323" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center" timestamp="1588866419322">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1588866419322" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left" timestamp="1588866419320">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1588866419320" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right" timestamp="1588866419322">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1588866419322" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom" timestamp="1588866419324">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.834@0.23.1440.834" timestamp="1588866419324" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center" timestamp="1588866419323">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.834@0.23.1440.834" timestamp="1588866419323" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left" timestamp="1588866419323">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.834@0.23.1440.834" timestamp="1588866419323" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right" timestamp="1588866419324">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.834@0.23.1440.834" timestamp="1588866419324" />
+    <state x="553" y="297" width="689" height="474" key="find.popup" timestamp="1588856711196">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="553" y="296" width="689" height="472" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1588376693048" />
+    <state x="553" y="297" width="689" height="474" key="find.popup/0.23.1440.834@0.23.1440.834" timestamp="1588856711196" />
+    <state x="385" y="92" width="670" height="677" key="search.everywhere.popup" timestamp="1588835573907">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="385" y="92" width="670" height="676" key="search.everywhere.popup/0.23.1440.834@0.23.1440.834" timestamp="1588665540286" />
+    <state x="385" y="92" width="670" height="677" key="search.everywhere.popup/0.23.1440.835@0.23.1440.835" timestamp="1588835573907" />
+  </component>
+</project>
